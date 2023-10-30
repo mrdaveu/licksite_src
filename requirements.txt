@@ -1,0 +1,10 @@
+functions-framework==3.*
+requests
+yt_dlp
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+tabulate
+tqdm
+PyGithub
+github
